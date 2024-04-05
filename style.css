@@ -425,7 +425,7 @@ form button:hover {
     margin-right: 7px;
 }
 
-@media (max-width: 950px) {
+@media (max-width: 100%) {
     .topnav :is(.hamburger-btn, .close-btn) {
         display: block;
     }
